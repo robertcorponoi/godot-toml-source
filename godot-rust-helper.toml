@@ -1,0 +1,11 @@
+[general]
+name = "godot_toml"
+targets = ["windows", "linux"]
+modules = ["GodotToml"]
+plugin = false
+
+[paths]
+lib = "/home/bob/Projects/godot-toml/source/godot_toml"
+godot = "/home/bob/Projects/godot-toml/"
+output = "/home/bob/Projects/godot-toml/bin/godot_toml"
+nativescript = "/home/bob/Projects/godot-toml/bin/godot_toml"
